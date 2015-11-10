@@ -1,0 +1,1 @@
+This is simple wrapper around cdimage.exe to quickly create .iso files
